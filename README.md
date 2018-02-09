@@ -1,5 +1,5 @@
 # VTween
-## Tween for unity3d
+## Visible tween for unity3d
 特点 Feature
 - 1> 易于扩展 Extendable
 - 2> 可视化定制变化曲线 Customize ease function visible
